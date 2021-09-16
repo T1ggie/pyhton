@@ -1,2 +1,2 @@
-# pyhton
-Small python scripts
+# Python scripts
+Small beginner python scripts i made 
